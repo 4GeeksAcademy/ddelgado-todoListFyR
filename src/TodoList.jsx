@@ -68,7 +68,7 @@ export const TodoList = () => {
     return (
         <div
             className="container py-5"
-            style={{ backgroundColor: "#e3f2fd", minHeight: "100vh" }}
+            style={{ backgroundColor: "#367092d5", minHeight: "100vh" }}
         >
             <div className="row justify-content-center">
                 <div className="col-md-8">
